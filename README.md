@@ -1,8 +1,25 @@
-## Hi there 👋
+Growing Programmer!🚀​
+-
+Hello!👋​
+\
+As you may have already seen, my name is Alessio, I am a third year student at the Technical Scientific Institute and I intend to graduate in **Computer Science**.🖥️​
+\
+\
+My passion is precisely that of programming, I like to create algorithms that work as well as possible and will save me extra work. We can see it a bit like working hard today will bring comfort tomorrow.🧑🏻‍💻​
+\
+\
+Let's move on to my skills📝​:
+## Relational skills📈​
+* Precision to detail and speed⚡​
+* Interpersonal skills and teamwork👨‍👨‍👦‍👦​
+## Language skills🌍​
+My native language is **Italian** but I can also speak:
+* English
+* French (basic)
+## Computer skills🖥️​
+By attending a computer science school I know how to use some programming languages ​​such as:
+* C#
+* Python
+* JavaScript (basic)
 
-<!--
-**AlessioVenza/AlessioVenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Conosco i linguaggi di programmazione C#, Python e JavaScript, fra 2 anni conseguirò il diploma di tecnico informatico e so orientarmi in sistemi operativi come Windows, Linux, Android e iOS/MacOS.
+I can develop web pages using HTML and CSS with the use of Bootstrap.

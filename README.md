@@ -2,7 +2,7 @@ Growing Programmer!🚀​
 -
 Hello!👋​
 \
-As you may have already seen, my name is Arnaldo Alessio Venza, I am a third year student at the Technical Scientific Institute and I intend to graduate in **Computer Science**.🖥️​
+As you may have already seen, my name is Arnaldo Alessio Venza, I am a third year student at the Technical Scientific Institute Ettore Majorana and I intend to graduate in **Computer Science**.🖥️​
 \
 \
 My passion is precisely that of programming, I like to create algorithms that work as well as possible and will save me extra work. We can see it a bit like working hard today will bring comfort tomorrow.🧑🏻‍💻​

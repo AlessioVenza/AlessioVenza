@@ -1,4 +1,4 @@
-Growing Programmer!🚀​
+Arnaldo Alessio Venza, Ettore Majorana, C#, HTML5, JS
 -
 Hello!👋​
 \
@@ -23,3 +23,5 @@ By attending a computer science school I know how to use some programming langua
 * JavaScript (basic)
 
 I can develop web pages using HTML and CSS with the use of Bootstrap.
+\\
+**Growing Programmer!🚀**

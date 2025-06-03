@@ -1,5 +1,4 @@
-Arnaldo Alessio Venza, Ettore Majorana, C#, HTML5, JS
--
+# Arnaldo Alessio Venza, Ettore Majorana, C#, HTML5, JS
 Hello!👋​
 \
 As you may have already seen, my name is Arnaldo Alessio Venza, I am a third year student at the Technical Scientific Institute Ettore Majorana and I intend to graduate in **Computer Science**.🖥️​

@@ -1,4 +1,4 @@
-# Arnaldo Alessio Venza,- ITI Ettore Majorana - C# - HTML5 - JS - Growing Programmer!🚀
+# Arnaldo Alessio Venza - ITI Ettore Majorana - C# - HTML5 - JS - Growing Programmer!🚀
 Hello!👋​
 \
 As you may have already seen, my name is Arnaldo Alessio Venza, I am a third year student at the Technical Scientific Institute Ettore Majorana and I intend to graduate in **Computer Science**.🖥️​
